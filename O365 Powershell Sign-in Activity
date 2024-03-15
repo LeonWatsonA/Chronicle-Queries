@@ -1,0 +1,11 @@
+//metadata tags are different per environment.
+metadata.event_type = "USER_LOGIN"
+metadata.product_event_type = "UserLoggedIn"
+metadata.product_name = "Office 365"
+metadata.vendor_name = "Microsoft"
+target.resource.product_object_id = "1b730954-1685-4b74-9bfd-dac224a7b894"
+security_result.action = "ALLOW"
+
+//$login.target.user.userid != "insert your email address here" for verified search.
+
+target.user.userid = "" //Enter userid
