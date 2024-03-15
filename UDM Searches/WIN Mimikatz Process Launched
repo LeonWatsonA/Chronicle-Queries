@@ -1,0 +1,2 @@
+metadata.event_type = "PROCESS_LAUNCH"
+target.process.command_line = /mimikatz/ nocase
