@@ -1,7 +1,0 @@
-metadata.event_type = "USER_UNCATEGORIZED"
-metadata.product_event_type = "Add member to role."
-metadata.vendor_name = "Microsoft"
-security_result.summary = "Added a user to an admin role successfully"
-
-//Uncomment bottom line to search for a specific user creating a user. Use full email address!!
-//target.user.userid = ""
